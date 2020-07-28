@@ -1,0 +1,60 @@
+#header{
+  background-color: #607d8b;
+  text-align: center;
+}
+.nav-item{
+  font-size: 20px;
+    padding: 0px 20px;
+}
+.nav-link:hover{
+  color:red !important;
+}
+.image-gabi{
+  width: 400px;
+  height: 400px;
+  border-radius: 80%;
+  margin-top: 30px;
+}
+.display-11{
+  padding:30px 0px;
+}
+
+#Education{
+  text-align: center;
+  padding-top: 80px;
+}
+#Experience{
+  text-align: center;
+    padding-top: 80px;
+}
+#Computer-skills{
+  text-align: center;
+    padding-top: 80px;
+}
+.contact{
+  text-align: center;
+  color:#F0E68C;
+  padding-top: 200px;
+  font-size: 100px;
+}
+#details{
+  text-align: center;
+  color:white;
+}
+.image-gabriel{
+  margin-top:90px;
+  width: 33.333%;
+  height: 400px;
+  display:inline-block;
+}
+.pic-div{
+  font-size:0;
+}
+.head{
+  margin-top:200px;
+  text-align: center;
+}
+.p1{
+  margin:0;
+  padding:0;
+}
